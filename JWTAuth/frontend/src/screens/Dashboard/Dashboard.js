@@ -7,10 +7,8 @@ function Dashboard({ history, search }) {
   const [names,setNames] = useState([]);
   const [programs,setPrograms] = useState([]);
   let y1 = Cookies.get('token');
-  console.log('Getting Cookies inside ==> MyNotes',y1)
 
   useEffect(() => {
-    console.log('inside UseEffect myNotes',y1);
     if (!Cookies.get('token')) {
       history.push("/login");
     }
@@ -34,7 +32,6 @@ function Dashboard({ history, search }) {
       return res.json();
     })
     .then((resJson)=> {
-      console.log('************** Programs ****************',resJson.programsAll);
       let x2 = resJson.programsAll;
       return setPrograms(x2);
     });
