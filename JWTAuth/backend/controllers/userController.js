@@ -4,7 +4,6 @@ import generateToken from "../utils/generateToken.js";
 
 const authUser = async (req, res, next) => {
   const { name, email, password } = req.body;
-  console.log('{email} ==> ',{email});
   const user = await User.findOne({ email });
   if (user && (await user.matchPassword(password))) {
     res.json({
@@ -20,7 +19,6 @@ const authUser = async (req, res, next) => {
   }
 };
 const registerUser = async (req, res,next) => {
-  console.log('Received regi Info', req.body)
   const { name, email, password, firstname, lastname, preferredname, status, room, levelofcare, ambulation, birthdate, moveindate, ID, author  } = req.body;
   const userExists = await User.findOne({ email });
   if (userExists) {
@@ -60,7 +58,6 @@ const getUsers = async (req,res,next) => {
 
 const getPrograms = async (req,res,next) => {
   Program.find({}, function(err, programs) {
-    console.log('Programs',programs)
     res.status(201).json({
       programsAll: programs,
       // token: generateToken(user._id),
