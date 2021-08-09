@@ -27,16 +27,12 @@ function LoginScreen({history}) {
       { email, password },
       { headers: {"Content-Type": "application/json"},
       });
-      console.log('response from Backend',responseData);
       var data = responseData.data;
-      console.log('dataInfo',data.token);
-      console.log('responseData.request.response from Backend ===> ',responseData.request.response);
       var y2 = data.token;
       return data.token;
     };
     dataToken = await login(email, password);
     setDataToken(dataToken);
-    console.log('setDataToken',dataToken);
     Cookies.set('token', dataToken);
     history.push("/dashboard");
   },[query,dataToken]);
@@ -44,7 +40,6 @@ function LoginScreen({history}) {
   const submitHandler = async (e) => {
     e.preventDefault();
     setQuery([email,password,dataToken]);
-    console.log('dataToken ===> ',dataToken);
    };
 
   return (
