@@ -1,0 +1,1850 @@
+[
+    {
+        "id": "109",
+        "name": "Debate",
+        "location": "Gymnasium",
+        "allDay": false,
+        "start": "2009-11-12T19:00:00.000Z",
+        "end": "2009-11-12T20:00:00.000Z",
+        "tags": [
+            "outing"
+        ],
+        "attendance": [
+            {
+                "residentId": "5",
+                "status": "Active"
+            },
+            {
+                "status": "Passive",
+                "residentId": "1",
+                "author": "undefined"
+            },
+            {
+                "status": "Active",
+                "residentId": "288018720610058760",
+                "author": "32f31617-ee26-4948-b1e6-ac32756e09cc"
+            },
+            {
+                "status": "Passive",
+                "residentId": "2",
+                "author": "1"
+            },
+            {
+                "status": "Active",
+                "residentId": "4",
+                "author": "1"
+            },
+            {
+                "status": "Active",
+                "residentId": "3",
+                "author": "dc22cc57-ab4f-4828-9056-b9e9af96fe6d"
+            },
+            {
+                "status": "Passive",
+                "residentId": "290000938960159245",
+                "author": "dc22cc57-ab4f-4828-9056-b9e9af96fe6d"
+            },
+            {
+                "status": "Active",
+                "residentId": "290016143297479177",
+                "author": "947a27a5-4ac2-454c-b5fb-fbbb105e1651"
+            },
+            {
+                "status": "Active",
+                "residentId": "6",
+                "author": "71bdfdf7-e771-4521-a997-a6280d30c3ad"
+            },
+            {
+                "status": "Active",
+                "residentId": "7",
+                "author": "0d6cc29b-c3d2-4cde-876a-a53dff329a62"
+            },
+            {
+                "status": "Active",
+                "residentId": "8",
+                "author": "89858509-0a9b-4dde-ae8d-ef6e77740050"
+            },
+            {
+                "status": "Active",
+                "residentId": "9",
+                "author": "89858509-0a9b-4dde-ae8d-ef6e77740050"
+            },
+            {
+                "status": "Active",
+                "residentId": "10",
+                "author": "38fb79a8-dfab-482d-815a-43bfefa1539c"
+            },
+            {
+                "status": "Active",
+                "residentId": "11",
+                "author": "0a7bc233-2e2c-4fca-8a7f-99eecce5eb04"
+            },
+            {
+                "status": "Active",
+                "residentId": "12",
+                "author": "0a7bc233-2e2c-4fca-8a7f-99eecce5eb04"
+            },
+            {
+                "status": "Active",
+                "residentId": "13",
+                "author": "d3297415-1c81-4d96-a996-a936273d2bea"
+            },
+            {
+                "status": "Active",
+                "residentId": "305486138631520834",
+                "author": "d3297415-1c81-4d96-a996-a936273d2bea"
+            },
+            {
+                "status": "Active",
+                "residentId": "14",
+                "author": "84b03d93-e8d1-4a5a-97ae-7525b060ee63"
+            },
+            {
+                "status": "Active",
+                "residentId": "289114232702632460",
+                "author": "84b03d93-e8d1-4a5a-97ae-7525b060ee63"
+            },
+            {
+                "status": "Active",
+                "residentId": "15",
+                "author": "048d4f60-c0c8-45ac-b528-c70165c3c8c0"
+            },
+            {
+                "status": "Active",
+                "residentId": "305676132921901634",
+                "author": "c903aa8b-0df3-4dcc-98dc-7fbf4231e72c"
+            },
+            {
+                "status": "Active",
+                "residentId": "16",
+                "author": "e1c8cccd-f0d5-42c3-ac9d-d0b37c6c98d9"
+            }
+        ],
+        "dimension": "Intellectual",
+        "facilitators": [
+            "Rec Aide"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED"
+        ],
+        "hobbies": [
+            "Debate",
+            "Public Speaking"
+        ],
+        "isRepeated": false
+    },
+    {
+        "id": "112",
+        "name": "Holiday Celebration",
+        "location": "Cafeteria",
+        "allDay": false,
+        "start": "2009-12-10T19:00:00.000Z",
+        "end": "2009-12-10T20:00:00.000Z",
+        "tags": [
+            "special"
+        ],
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "b967b369-bce4-4c35-a8c3-f9a3ecc5ce91"
+            },
+            {
+                "residentId": "2",
+                "status": "Active"
+            },
+            {
+                "residentId": "3",
+                "status": "Active"
+            },
+            {
+                "residentId": "4",
+                "status": "Active"
+            },
+            {
+                "residentId": "5",
+                "status": "Active"
+            },
+            {
+                "residentId": "6",
+                "status": "Active"
+            },
+            {
+                "residentId": "7",
+                "status": "Active"
+            },
+            {
+                "status": "Active",
+                "residentId": "288098901038203405",
+                "author": "1"
+            },
+            {
+                "status": "Active",
+                "residentId": "288018720610058760",
+                "author": "1"
+            },
+            {
+                "status": "Passive",
+                "residentId": "290016143297479177",
+                "author": "947a27a5-4ac2-454c-b5fb-fbbb105e1651"
+            },
+            {
+                "status": "Active",
+                "residentId": "15",
+                "author": "dc22cc57-ab4f-4828-9056-b9e9af96fe6d"
+            },
+            {
+                "status": "Active",
+                "residentId": "293176858531332617",
+                "author": "b967b369-bce4-4c35-a8c3-f9a3ecc5ce91"
+            },
+            {
+                "status": "Active",
+                "residentId": "293174832687743501",
+                "author": "fca2bb8f-dac1-4d64-b33a-3be18fdd6b96"
+            },
+            {
+                "status": "Active",
+                "residentId": "293244705912652298",
+                "author": "7836c747-fecc-47c6-be0e-9a8e633689cb"
+            },
+            {
+                "status": "Active",
+                "residentId": "8",
+                "author": "b717d7a8-a512-4400-995e-56f2301758bd"
+            },
+            {
+                "status": "Active",
+                "residentId": "305510191854518848",
+                "author": "048d4f60-c0c8-45ac-b528-c70165c3c8c0"
+            },
+            {
+                "status": "Active",
+                "residentId": "9",
+                "author": "f62a4aa7-a2f9-48b3-a678-3c2664623e42"
+            }
+        ],
+        "dimension": "Community",
+        "facilitators": [
+            "Resident"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED",
+            "MEMORY",
+            "LONGTERM"
+        ],
+        "hobbies": [],
+        "isRepeated": false
+    },
+    {
+        "id": "114",
+        "name": "Interpretive Dance",
+        "location": "Auditorium",
+        "allDay": false,
+        "start": "2010-01-21T19:00:00.000Z",
+        "end": "2010-01-21T21:00:00.000Z",
+        "tags": [],
+        "attendance": [
+            {
+                "residentId": "2",
+                "status": "Active"
+            },
+            {
+                "residentId": "6",
+                "status": "Active"
+            },
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "32f31617-ee26-4948-b1e6-ac32756e09cc"
+            },
+            {
+                "status": "Passive",
+                "residentId": "3",
+                "author": "1"
+            },
+            {
+                "status": "Passive",
+                "residentId": "288098901038203405",
+                "author": "1"
+            },
+            {
+                "status": "Passive",
+                "residentId": "290000938960159245",
+                "author": "947a27a5-4ac2-454c-b5fb-fbbb105e1651"
+            },
+            {
+                "status": "Active",
+                "residentId": "4",
+                "author": "32a0a1c0-fa36-4755-9a30-6ac3525db274"
+            },
+            {
+                "status": "Active",
+                "residentId": "5",
+                "author": "32a0a1c0-fa36-4755-9a30-6ac3525db274"
+            }
+        ],
+        "dimension": "Physical",
+        "facilitators": [
+            "Rec Aide"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED"
+        ],
+        "hobbies": [
+            "Dance",
+            "Arts"
+        ],
+        "isRepeated": false
+    },
+    {
+        "id": "117",
+        "name": "Billiards",
+        "location": "Cafeteria",
+        "allDay": false,
+        "start": "2010-03-04T19:00:00.000Z",
+        "end": "2010-03-04T20:00:00.000Z",
+        "tags": [],
+        "attendance": [
+            {
+                "residentId": "1",
+                "status": "Active"
+            },
+            {
+                "status": "Declined",
+                "residentId": "2",
+                "author": "1"
+            },
+            {
+                "status": "Active",
+                "residentId": "3",
+                "author": "2b97d975-6788-47a7-847f-800b4c97158c"
+            }
+        ],
+        "dimension": "Physical",
+        "facilitators": [
+            "Rec Aide"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED"
+        ],
+        "hobbies": [
+            "Billiards",
+            "Pub Games"
+        ],
+        "isRepeated": false
+    },
+    {
+        "id": "118",
+        "name": "Family Day",
+        "location": "Cafeteria",
+        "allDay": false,
+        "start": "2010-03-11T16:00:00.000Z",
+        "end": "2010-03-11T23:00:00.000Z",
+        "tags": [],
+        "attendance": [
+            {
+                "residentId": "1",
+                "status": "Active"
+            },
+            {
+                "residentId": "2",
+                "status": "Active"
+            },
+            {
+                "residentId": "3",
+                "status": "Active"
+            },
+            {
+                "residentId": "4",
+                "status": "Active"
+            },
+            {
+                "residentId": "5",
+                "status": "Active"
+            },
+            {
+                "residentId": "6",
+                "status": "Active"
+            },
+            {
+                "residentId": "7",
+                "status": "Active"
+            },
+            {
+                "residentId": "8",
+                "status": "Passive"
+            },
+            {
+                "residentId": "9",
+                "status": "Passive"
+            },
+            {
+                "residentId": "15",
+                "status": "Passive"
+            },
+            {
+                "status": "Passive",
+                "residentId": "290892260308943373",
+                "author": "4dacda19-bfa6-4660-8530-74e43565c502"
+            }
+        ],
+        "dimension": "Community",
+        "facilitators": [
+            "Director of Rec"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED"
+        ],
+        "hobbies": [],
+        "isRepeated": false
+    },
+    {
+        "id": "1191",
+        "name": "Pottery",
+        "location": "Workshop",
+        "allDay": false,
+        "start": "2010-03-18T16:00:00.000Z",
+        "end": "2010-03-18T23:00:00.000Z",
+        "tags": [
+            "special"
+        ],
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "b967b369-bce4-4c35-a8c3-f9a3ecc5ce91"
+            },
+            {
+                "residentId": "3",
+                "status": "Active"
+            },
+            {
+                "residentId": "5",
+                "status": "Active"
+            },
+            {
+                "status": "Active",
+                "residentId": "16",
+                "author": "undefined"
+            },
+            {
+                "status": "Passive",
+                "residentId": "2",
+                "author": "1"
+            },
+            {
+                "status": "Passive",
+                "residentId": "15",
+                "author": "undefined"
+            },
+            {
+                "status": "Active",
+                "residentId": "293176858531332617",
+                "author": "7836c747-fecc-47c6-be0e-9a8e633689cb"
+            }
+        ],
+        "dimension": "Intellectual",
+        "facilitators": [
+            "Rec Aide"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED"
+        ],
+        "hobbies": [
+            "Crafts",
+            "Pottery"
+        ],
+        "isRepeated": false
+    },
+    {
+        "id": "1192",
+        "name": "Sailing",
+        "location": "Parking Lot",
+        "allDay": false,
+        "start": "2010-03-18T16:00:00.000Z",
+        "end": "2010-03-18T23:00:00.000Z",
+        "tags": [
+            "outing",
+            "special"
+        ],
+        "attendance": [
+            {
+                "residentId": "2",
+                "status": "Passive"
+            },
+            {
+                "residentId": "4",
+                "status": "Active"
+            },
+            {
+                "residentId": "6",
+                "status": "Active"
+            },
+            {
+                "residentId": "7",
+                "status": "Passive"
+            },
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "1"
+            },
+            {
+                "status": "Passive",
+                "residentId": "289329064516256268",
+                "author": "4dacda19-bfa6-4660-8530-74e43565c502"
+            }
+        ],
+        "dimension": "Physical",
+        "facilitators": [
+            "Rec Aide"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT"
+        ],
+        "hobbies": [
+            "Boating"
+        ],
+        "isRepeated": false
+    },
+    {
+        "id": "122",
+        "name": "Debate",
+        "location": "Cafeteria",
+        "allDay": false,
+        "start": "2010-04-29T19:00:00.000Z",
+        "end": "2010-04-29T20:00:00.000Z",
+        "tags": [],
+        "attendance": [
+            {
+                "residentId": "1",
+                "status": "Active"
+            },
+            {
+                "residentId": "2",
+                "status": "Active"
+            },
+            {
+                "status": "Active",
+                "residentId": "3",
+                "author": "b3a36742-2a49-42ed-adcd-e656ee0642b7"
+            },
+            {
+                "status": "Active",
+                "residentId": "4",
+                "author": "ff0825a4-d49e-4732-9ecc-19d69d93bd33"
+            },
+            {
+                "status": "Active",
+                "residentId": "5",
+                "author": "b8f94e6a-d585-4a87-b0b6-55eef5d8e3d8"
+            }
+        ],
+        "dimension": "Intellectual",
+        "facilitators": [
+            "Rec Aide"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED"
+        ],
+        "hobbies": [
+            "Debate",
+            "Public Speaking"
+        ],
+        "isRepeated": false
+    },
+    {
+        "id": "123",
+        "name": "Paintball Assassin",
+        "location": "Cafeteria",
+        "allDay": false,
+        "start": "2010-05-06T19:00:00.000Z",
+        "end": "2010-05-06T23:00:00.000Z",
+        "tags": [
+            "outing",
+            "special",
+            "vendor"
+        ],
+        "attendance": [
+            {
+                "residentId": "1",
+                "status": "Active"
+            },
+            {
+                "residentId": "2",
+                "status": "Active"
+            },
+            {
+                "residentId": "3",
+                "status": "Active"
+            },
+            {
+                "residentId": "4",
+                "status": "Active"
+            },
+            {
+                "residentId": "5",
+                "status": "Active"
+            },
+            {
+                "residentId": "6",
+                "status": "Active"
+            },
+            {
+                "residentId": "7",
+                "status": "Active"
+            },
+            {
+                "residentId": "8",
+                "status": "Active"
+            },
+            {
+                "residentId": "9",
+                "status": "Passive"
+            },
+            {
+                "status": "Passive",
+                "residentId": "11",
+                "author": "4dacda19-bfa6-4660-8530-74e43565c502"
+            },
+            {
+                "residentId": "12",
+                "status": "Passive"
+            },
+            {
+                "residentId": "15",
+                "status": "Active"
+            },
+            {
+                "status": "Declined",
+                "residentId": "288098901038203405",
+                "author": "f4df52a9-b9da-41af-9f12-887a3336fcf2"
+            },
+            {
+                "status": "Passive",
+                "residentId": "289329064516256268",
+                "author": "4dacda19-bfa6-4660-8530-74e43565c502"
+            },
+            {
+                "status": "Active",
+                "residentId": "10",
+                "author": "8a565042-444a-43f2-826b-eb89c4952c91"
+            },
+            {
+                "status": "Active",
+                "residentId": "13",
+                "author": "8a565042-444a-43f2-826b-eb89c4952c91"
+            }
+        ],
+        "dimension": "Physical",
+        "facilitators": [
+            "Director of Rec"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT"
+        ],
+        "hobbies": [
+            "Paintball"
+        ],
+        "recurrence": {
+            "frequency": "YEARLY",
+            "interval": 1,
+            "byMonth": 5,
+            "byMonthday": 5
+        },
+        "isRepeated": true
+    },
+    {
+        "id": "204",
+        "name": "Space Simulation",
+        "location": "Parking Lot",
+        "allDay": false,
+        "start": "2010-10-14T19:00:00.000Z",
+        "end": "2010-10-14T20:00:00.000Z",
+        "tags": [
+            "outing",
+            "special",
+            "technology"
+        ],
+        "attendance": [
+            {
+                "residentId": "1",
+                "status": "Active"
+            },
+            {
+                "residentId": "2",
+                "status": "Active"
+            },
+            {
+                "residentId": "3",
+                "status": "Passive"
+            },
+            {
+                "residentId": "4",
+                "status": "Active"
+            },
+            {
+                "residentId": "5",
+                "status": "Active"
+            },
+            {
+                "residentId": "6",
+                "status": "Active"
+            },
+            {
+                "residentId": "7",
+                "status": "Declined"
+            },
+            {
+                "residentId": "8",
+                "status": "Passive"
+            },
+            {
+                "residentId": "9",
+                "status": "Passive"
+            }
+        ],
+        "dimension": "Intellectual",
+        "facilitators": [
+            "Director of Rec"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED",
+            "MEMORY"
+        ],
+        "hobbies": [
+            "Space",
+            "Learning",
+            "Virtual Reality",
+            "Video Games"
+        ],
+        "isRepeated": false
+    },
+    {
+        "id": "210",
+        "name": "Pub Night",
+        "location": "The Green Door",
+        "allDay": false,
+        "start": "2010-12-02T19:00:00.000Z",
+        "end": "2010-12-02T20:00:00.000Z",
+        "tags": [
+            "outing"
+        ],
+        "attendance": [
+            {
+                "residentId": "1",
+                "status": "Active"
+            },
+            {
+                "residentId": "2",
+                "status": "Active"
+            },
+            {
+                "residentId": "3",
+                "status": "Active"
+            },
+            {
+                "residentId": "4",
+                "status": "Declined"
+            },
+            {
+                "residentId": "5",
+                "status": "Active"
+            },
+            {
+                "residentId": "6",
+                "status": "Active"
+            },
+            {
+                "residentId": "7",
+                "status": "Active"
+            },
+            {
+                "status": "Active",
+                "residentId": "8",
+                "author": "3aeb775e-e3f6-46a2-89a1-80bfc6a2d84b"
+            }
+        ],
+        "dimension": "Social",
+        "facilitators": [
+            "Resident"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED"
+        ],
+        "hobbies": [
+            "Alcohol"
+        ],
+        "isRepeated": false
+    },
+    {
+        "id": "214",
+        "name": "Dungeons & Dragons",
+        "location": "Group Study Room F",
+        "allDay": false,
+        "start": "2011-02-03T19:00:00.000Z",
+        "end": "2011-02-03T20:00:00.000Z",
+        "tags": [
+            "special"
+        ],
+        "attendance": [
+            {
+                "residentId": "1",
+                "status": "Active"
+            },
+            {
+                "residentId": "2",
+                "status": "Active"
+            },
+            {
+                "residentId": "3",
+                "status": "Active"
+            },
+            {
+                "residentId": "4",
+                "status": "Active"
+            },
+            {
+                "residentId": "5",
+                "status": "Active"
+            },
+            {
+                "residentId": "6",
+                "status": "Active"
+            },
+            {
+                "residentId": "7",
+                "status": "Active"
+            },
+            {
+                "residentId": "8",
+                "status": "Passive"
+            },
+            {
+                "residentId": "14",
+                "status": "Active"
+            },
+            {
+                "status": "Passive",
+                "residentId": "289329064516256268",
+                "author": "4dacda19-bfa6-4660-8530-74e43565c502"
+            },
+            {
+                "status": "Active",
+                "residentId": "9",
+                "author": "f62a4aa7-a2f9-48b3-a678-3c2664623e42"
+            },
+            {
+                "status": "Active",
+                "residentId": "10",
+                "author": "207ea89c-8b93-45fe-8cd5-b5183277968d"
+            },
+            {
+                "status": "Active",
+                "residentId": "291244846153204233",
+                "author": "207ea89c-8b93-45fe-8cd5-b5183277968d"
+            },
+            {
+                "status": "Active",
+                "residentId": "289114073329566216",
+                "author": "207ea89c-8b93-45fe-8cd5-b5183277968d"
+            }
+        ],
+        "dimension": "Social",
+        "facilitators": [
+            "Resident"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED"
+        ],
+        "hobbies": [
+            "Role Playing",
+            "Board Games",
+            "Storytelling"
+        ],
+        "isRepeated": false
+    },
+    {
+        "id": "223",
+        "name": "Paintball Assassin",
+        "parentId": 123,
+        "location": "Parking Lot",
+        "allDay": false,
+        "start": "2011-05-05T19:00:00.000Z",
+        "end": "2011-05-05T23:00:00.000Z",
+        "tags": [
+            "outing",
+            "special",
+            "vendor"
+        ],
+        "attendance": [
+            {
+                "status": "Declined",
+                "residentId": "1",
+                "author": "1dfb7697-2d7d-472a-96a3-e363cd84aa7f"
+            },
+            {
+                "residentId": "2",
+                "status": "Active"
+            },
+            {
+                "status": "Passive",
+                "residentId": "3",
+                "author": "86062a1f-1e45-4d31-a569-379e8da3dd59"
+            },
+            {
+                "residentId": "4",
+                "status": "Active"
+            },
+            {
+                "residentId": "5",
+                "status": "Active"
+            },
+            {
+                "residentId": "6",
+                "status": "Active"
+            },
+            {
+                "residentId": "7",
+                "status": "Active"
+            },
+            {
+                "residentId": "8",
+                "status": "Active"
+            },
+            {
+                "residentId": "9",
+                "status": "Active"
+            },
+            {
+                "residentId": "11",
+                "status": "Active"
+            },
+            {
+                "residentId": "12",
+                "status": "Active"
+            },
+            {
+                "residentId": "13",
+                "status": "Active"
+            },
+            {
+                "status": "Active",
+                "residentId": "14",
+                "author": "48efb0a6-f9e6-4f00-82ae-3efabfe65c47"
+            },
+            {
+                "residentId": "15",
+                "status": "Active"
+            },
+            {
+                "status": "Active",
+                "residentId": "289114232702632460",
+                "author": "ac0cb2a0-c11a-4227-b80f-601ac22eeaa3"
+            },
+            {
+                "status": "Active",
+                "residentId": "10",
+                "author": "48efb0a6-f9e6-4f00-82ae-3efabfe65c47"
+            },
+            {
+                "status": "Active",
+                "residentId": "291244846153204233",
+                "author": "48efb0a6-f9e6-4f00-82ae-3efabfe65c47"
+            },
+            {
+                "status": "Active",
+                "residentId": "293174832687743501",
+                "author": "1dfb7697-2d7d-472a-96a3-e363cd84aa7f"
+            },
+            {
+                "status": "Declined",
+                "residentId": "289114073329566216",
+                "author": "1dfb7697-2d7d-472a-96a3-e363cd84aa7f"
+            },
+            {
+                "status": "Declined",
+                "residentId": "305485726490821185",
+                "author": "b2422ec4-6291-4cd0-8449-d3bbbae79bdc"
+            },
+            {
+                "status": "Active",
+                "residentId": "293176858531332617",
+                "author": "b2422ec4-6291-4cd0-8449-d3bbbae79bdc"
+            }
+        ],
+        "dimension": "Physical",
+        "facilitators": [
+            "Director of Rec"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT"
+        ],
+        "hobbies": [
+            "Paintball"
+        ],
+        "isRepeated": true
+    },
+    {
+        "id": "309",
+        "name": "Foosball",
+        "location": "Cafeteria",
+        "allDay": false,
+        "start": "2011-12-01T19:00:00.000Z",
+        "end": "2011-12-01T20:00:00.000Z",
+        "tags": [],
+        "attendance": [
+            {
+                "residentId": "1",
+                "status": "Active"
+            },
+            {
+                "residentId": "4",
+                "status": "Active"
+            }
+        ],
+        "dimension": "Social",
+        "facilitators": [
+            "Rec Aide"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED"
+        ],
+        "hobbies": [
+            "Pub Games"
+        ],
+        "isRepeated": false
+    },
+    {
+        "name": "React Programming",
+        "location": "Computer",
+        "allDay": false,
+        "start": "2021-01-17T19:00:00.000Z",
+        "end": "2021-01-17T20:00:00.000Z",
+        "tags": [
+            "smart",
+            "react",
+            "joboffer"
+        ],
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "288018720610058760",
+                "author": "32f31617-ee26-4948-b1e6-ac32756e09cc"
+            },
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "32f31617-ee26-4948-b1e6-ac32756e09cc"
+            },
+            {
+                "status": "Active",
+                "residentId": "2",
+                "author": "8a565042-444a-43f2-826b-eb89c4952c91"
+            }
+        ],
+        "dimension": "Intellectual",
+        "facilitators": [
+            "Rec Aide"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED"
+        ],
+        "hobbies": [
+            "Computer",
+            "Learning"
+        ],
+        "isRepeated": false,
+        "id": "288018872122999304",
+        "author": "32f31617-ee26-4948-b1e6-ac32756e09cc"
+    },
+    {
+        "name": "test",
+        "location": "test",
+        "allDay": false,
+        "start": "2020-01-01T00:00:00.000Z",
+        "end": "2020-01-01T00:00:00.000Z",
+        "tags": [
+            "test"
+        ],
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "32f31617-ee26-4948-b1e6-ac32756e09cc"
+            }
+        ],
+        "dimension": "test",
+        "facilitators": [
+            "Rec Aide"
+        ],
+        "levelOfCare": [
+            "MEMORY"
+        ],
+        "hobbies": [
+            "test"
+        ],
+        "isRepeated": false,
+        "id": "288097796254335500",
+        "author": "32f31617-ee26-4948-b1e6-ac32756e09cc"
+    },
+    {
+        "name": "test2",
+        "location": "test2",
+        "allDay": false,
+        "start": "2021-01-01T00:00:00.000Z",
+        "end": "2021-01-01T00:00:00.000Z",
+        "tags": [
+            "test"
+        ],
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "288018720610058760",
+                "author": "32f31617-ee26-4948-b1e6-ac32756e09cc"
+            }
+        ],
+        "dimension": "test",
+        "facilitators": [
+            "Rec Aide"
+        ],
+        "levelOfCare": [
+            "MEMORY"
+        ],
+        "hobbies": [
+            "test"
+        ],
+        "isRepeated": false,
+        "id": "288098090335863304",
+        "author": "32f31617-ee26-4948-b1e6-ac32756e09cc"
+    },
+    {
+        "location": "Everywhere",
+        "allDay": true,
+        "tags": [
+            "test"
+        ],
+        "name": "Fun",
+        "start": "2021-01-30T05:59:49.925Z",
+        "end": "2021-01-30T05:59:49.925Z",
+        "dimension": "All-encompassing",
+        "facilitators": [
+            "Me"
+        ],
+        "levelOfCare": [],
+        "hobbies": [
+            "all"
+        ],
+        "isRepeated": false,
+        "id": "289121324585976328",
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "289114073329566216",
+                "author": "1"
+            }
+        ],
+        "author": "1"
+    },
+    {
+        "name": "antontest",
+        "location": "antontest",
+        "allDay": false,
+        "start": "2021-01-01T00:00:00.000Z",
+        "end": "2021-01-01T00:00:00.000Z",
+        "tags": [
+            "test"
+        ],
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "289654309107270157",
+                "author": "b751ca8f-bc5a-419e-9e5e-b28902dbb17e"
+            },
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "3aeb775e-e3f6-46a2-89a1-80bfc6a2d84b"
+            }
+        ],
+        "dimension": "test",
+        "facilitators": [
+            "Rec Aide"
+        ],
+        "levelOfCare": [
+            "MEMORY"
+        ],
+        "hobbies": [
+            "test"
+        ],
+        "isRepeated": false,
+        "id": "289654114580693517",
+        "author": "b751ca8f-bc5a-419e-9e5e-b28902dbb17e"
+    },
+    {
+        "name": "Anthropology 101",
+        "location": "Classroom 312",
+        "allDay": false,
+        "start": "2021-02-07T15:00:00.000Z",
+        "end": "2021-02-07T16:00:00.000Z",
+        "tags": [
+            "Study"
+        ],
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "290000938960159245",
+                "author": "99b55aa8-bdf6-42d8-b591-847477217e51"
+            },
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "99b55aa8-bdf6-42d8-b591-847477217e51"
+            },
+            {
+                "status": "Active",
+                "residentId": "2",
+                "author": "8a565042-444a-43f2-826b-eb89c4952c91"
+            }
+        ],
+        "dimension": "Community",
+        "facilitators": [
+            "Ian Duncan"
+        ],
+        "levelOfCare": [
+            "MEMORY"
+        ],
+        "hobbies": [
+            "Youtube"
+        ],
+        "isRepeated": true,
+        "id": "290001311799181833",
+        "author": "99b55aa8-bdf6-42d8-b591-847477217e51"
+    },
+    {
+        "id": "290017923044475400",
+        "name": "Apply For Jobs",
+        "allDay": true,
+        "isRepeated": false,
+        "start": "2021-02-09T03:30:29.572Z",
+        "end": "2021-02-09T03:30:29.572Z",
+        "location": "Group Study Room F",
+        "facilitators": [
+            "Director Of Rec",
+            "Rec Aide",
+            "Resident"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED"
+        ],
+        "dimension": "Intellectual",
+        "tags": [
+            "Technology",
+            "Special",
+            "Outing",
+            "Vendor"
+        ],
+        "hobbies": [
+            "Computer",
+            "Debate",
+            "Learning",
+            "Public Speaking",
+            "Role Playing"
+        ],
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "947a27a5-4ac2-454c-b5fb-fbbb105e1651"
+            },
+            {
+                "status": "Active",
+                "residentId": "290016143297479177",
+                "author": "947a27a5-4ac2-454c-b5fb-fbbb105e1651"
+            }
+        ],
+        "author": "947a27a5-4ac2-454c-b5fb-fbbb105e1651"
+    },
+    {
+        "id": "290891116450939405",
+        "name": "Euchre",
+        "allDay": false,
+        "isRepeated": false,
+        "location": "Some room",
+        "facilitators": [
+            "Resident"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT"
+        ],
+        "dimension": "Intellectual",
+        "tags": [],
+        "hobbies": [],
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "3",
+                "author": "f0520a05-1a9b-4087-920d-1b567167bd36"
+            },
+            {
+                "status": "Active",
+                "residentId": "4",
+                "author": "f0520a05-1a9b-4087-920d-1b567167bd36"
+            },
+            {
+                "status": "Active",
+                "residentId": "14",
+                "author": "f0520a05-1a9b-4087-920d-1b567167bd36"
+            },
+            {
+                "status": "Active",
+                "residentId": "2",
+                "author": "f0520a05-1a9b-4087-920d-1b567167bd36"
+            },
+            {
+                "status": "Passive",
+                "residentId": "288098901038203405",
+                "author": "f0520a05-1a9b-4087-920d-1b567167bd36"
+            },
+            {
+                "status": "Active",
+                "residentId": "289320980306723336",
+                "author": "f0520a05-1a9b-4087-920d-1b567167bd36"
+            },
+            {
+                "status": "Active",
+                "residentId": "305652512632865344",
+                "author": "19ce08ac-c158-433b-8079-dfb8a58b4c1c"
+            },
+            {
+                "status": "Active",
+                "residentId": "305510191854518848",
+                "author": "319cf105-70b9-4e35-b158-c4ce09c3e3e1"
+            }
+        ],
+        "start": "2021-02-18T19:00:00.000Z",
+        "end": "2021-02-18T20:00:00.000Z",
+        "author": "4dacda19-bfa6-4660-8530-74e43565c502"
+    },
+    {
+        "name": "Euchre",
+        "allDay": false,
+        "isRepeated": false,
+        "location": "Some room",
+        "facilitators": [
+            "Resident"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT"
+        ],
+        "dimension": "Intellectual",
+        "tags": [],
+        "hobbies": [],
+        "start": "2021-02-18T19:00:00.000Z",
+        "end": "2021-02-18T20:00:00.000Z",
+        "id": "290892831121211917",
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "305653283069887041",
+                "author": "e4be0ac1-0841-45b8-b99d-38eb0c13cf8f"
+            },
+            {
+                "status": "Active",
+                "residentId": "2",
+                "author": "e4be0ac1-0841-45b8-b99d-38eb0c13cf8f"
+            }
+        ],
+        "author": "4dacda19-bfa6-4660-8530-74e43565c502"
+    },
+    {
+        "id": "291198909616751113",
+        "name": "zumba",
+        "allDay": true,
+        "isRepeated": true,
+        "start": "2021-02-22T04:21:31.200Z",
+        "end": "2022-02-22T00:00:00.000Z",
+        "location": "Gymnasium",
+        "facilitators": [
+            "Resident"
+        ],
+        "levelOfCare": [
+            "ASSISTED"
+        ],
+        "dimension": "Physical",
+        "tags": [
+            "Outing"
+        ],
+        "hobbies": [
+            "Dance"
+        ],
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "72f2bb6b-e168-4172-8b4f-6046b94e1658"
+            },
+            {
+                "status": "Active",
+                "residentId": "4",
+                "author": "72f2bb6b-e168-4172-8b4f-6046b94e1658"
+            },
+            {
+                "status": "Declined",
+                "residentId": "10",
+                "author": "72f2bb6b-e168-4172-8b4f-6046b94e1658"
+            },
+            {
+                "status": "Passive",
+                "residentId": "6",
+                "author": "72f2bb6b-e168-4172-8b4f-6046b94e1658"
+            },
+            {
+                "status": "Declined",
+                "residentId": "288098901038203405",
+                "author": "72f2bb6b-e168-4172-8b4f-6046b94e1658"
+            },
+            {
+                "status": "Active",
+                "residentId": "289114232702632460",
+                "author": "b8773981-1a9c-40af-b58c-3b6a2eda6ea8"
+            }
+        ],
+        "author": "undefined"
+    },
+    {
+        "name": "Euchre",
+        "allDay": false,
+        "isRepeated": false,
+        "location": "Some room",
+        "facilitators": [
+            "Resident"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT"
+        ],
+        "dimension": "Intellectual",
+        "tags": [],
+        "hobbies": [],
+        "start": "2021-02-26T04:38:00.000Z",
+        "end": "2021-02-18T20:00:00.000Z",
+        "id": "291200077491339789",
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "a8ba4455-f13b-4570-9cfb-3fe9fa4d87bb"
+            },
+            {
+                "status": "Undefined",
+                "residentId": "3",
+                "author": "a8ba4455-f13b-4570-9cfb-3fe9fa4d87bb"
+            },
+            {
+                "status": "Undefined",
+                "residentId": "305489136139108929",
+                "author": "a8ba4455-f13b-4570-9cfb-3fe9fa4d87bb"
+            },
+            {
+                "status": "Passive",
+                "residentId": "305510191854518848",
+                "author": "19ce08ac-c158-433b-8079-dfb8a58b4c1c"
+            },
+            {
+                "status": "Declined",
+                "residentId": "11",
+                "author": "72f2bb6b-e168-4172-8b4f-6046b94e1658"
+            },
+            {
+                "status": "Active",
+                "residentId": "289114073329566216",
+                "author": "72f2bb6b-e168-4172-8b4f-6046b94e1658"
+            },
+            {
+                "status": "Active",
+                "residentId": "15",
+                "author": "72f2bb6b-e168-4172-8b4f-6046b94e1658"
+            },
+            {
+                "status": "Active",
+                "residentId": "289320980306723336",
+                "author": "4c3b4555-e41c-449f-ab6d-572d3284992f"
+            },
+            {
+                "status": "Passive",
+                "residentId": "293244705912652298",
+                "author": "e4be0ac1-0841-45b8-b99d-38eb0c13cf8f"
+            }
+        ],
+        "author": "4dacda19-bfa6-4660-8530-74e43565c502"
+    },
+    {
+        "name": "Bridge",
+        "allDay": true,
+        "isRepeated": true,
+        "location": "Saloon",
+        "facilitators": [
+            "Resident"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT"
+        ],
+        "dimension": "Intellectual",
+        "tags": [],
+        "hobbies": [],
+        "start": "2021-02-24T14:37:00.000Z",
+        "end": "2021-02-26T11:20:00.000Z",
+        "id": "291237824806519305",
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "b59274b7-f8e0-447c-9457-767df177e88f"
+            }
+        ],
+        "author": "4dacda19-bfa6-4660-8530-74e43565c502"
+    },
+    {
+        "name": "Test Program",
+        "location": "Office",
+        "allDay": false,
+        "start": "2021-02-15T14:00:00.000Z",
+        "end": "2021-02-15T22:00:00.000Z",
+        "tags": [
+            {
+                "tags": ""
+            }
+        ],
+        "dimension": "def",
+        "facilitators": [
+            {
+                "facilitators": ""
+            }
+        ],
+        "levelOfCare": [
+            {
+                "levelOfCare": ""
+            }
+        ],
+        "isRepeated": false,
+        "hobbies": [
+            {
+                "hobbies": "Test Hobby"
+            },
+            {
+                "hobbies": ""
+            }
+        ],
+        "id": "293188660609679880",
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "1",
+                "author": "57fc817f-fa13-47e0-8570-ae3d57f1b42d"
+            },
+            {
+                "status": "Passive",
+                "residentId": "7",
+                "author": "f0520a05-1a9b-4087-920d-1b567167bd36"
+            },
+            {
+                "status": "Active",
+                "residentId": "4",
+                "author": "f0520a05-1a9b-4087-920d-1b567167bd36"
+            },
+            {
+                "status": "Active",
+                "residentId": "8",
+                "author": "f0520a05-1a9b-4087-920d-1b567167bd36"
+            },
+            {
+                "status": "Passive",
+                "residentId": "289114073329566216",
+                "author": "f0520a05-1a9b-4087-920d-1b567167bd36"
+            },
+            {
+                "status": "Undefined",
+                "residentId": "288018720610058760",
+                "author": "57fc817f-fa13-47e0-8570-ae3d57f1b42d"
+            },
+            {
+                "status": "Declined",
+                "residentId": "6",
+                "author": "18166e5f-4b19-44be-97e1-143fdb747afe"
+            },
+            {
+                "status": "Active",
+                "residentId": "290000938960159245",
+                "author": "18166e5f-4b19-44be-97e1-143fdb747afe"
+            },
+            {
+                "status": "Active",
+                "residentId": "289654309107270157",
+                "author": "18166e5f-4b19-44be-97e1-143fdb747afe"
+            },
+            {
+                "status": "Declined",
+                "residentId": "293176858531332617",
+                "author": "18166e5f-4b19-44be-97e1-143fdb747afe"
+            }
+        ],
+        "author": "b967b369-bce4-4c35-a8c3-f9a3ecc5ce91"
+    },
+    {
+        "name": "Yoga",
+        "location": "Main hall",
+        "allDay": false,
+        "start": "2021-02-16T13:00:00.000Z",
+        "end": "2021-02-16T23:00:00.000Z",
+        "tags": [
+            "Yoga Tag",
+            "Yoga",
+            ""
+        ],
+        "dimension": "Dimension test",
+        "facilitators": [
+            "Resident",
+            ""
+        ],
+        "levelOfCare": [
+            "ASSISTED",
+            "INDEPENDENT",
+            ""
+        ],
+        "isRepeated": false,
+        "hobbies": [
+            "Reading",
+            ""
+        ],
+        "id": "293245202551800333",
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "293244705912652298",
+                "author": "7836c747-fecc-47c6-be0e-9a8e633689cb"
+            }
+        ],
+        "author": "7836c747-fecc-47c6-be0e-9a8e633689cb"
+    },
+    {
+        "name": "Program Carlos",
+        "location": "34 lisgar st",
+        "allDay": true,
+        "start": "2021-07-09T04:00:00.000Z",
+        "end": "2021-07-31T04:00:00.000Z",
+        "isRepeated": true,
+        "hobbies": [
+            "asdfasdf",
+            "asdfsadf",
+            "asdfsadfasdf",
+            "fff"
+        ],
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED",
+            "MEMORY",
+            "LONGTERM"
+        ],
+        "facilitators": [
+            "asdfasdf",
+            "asdfsadf",
+            "asdfsadfasdf",
+            "fff"
+        ],
+        "dimension": "test",
+        "tags": [
+            "asdfasdf",
+            "asdfsadf",
+            "asdfsadfasdf",
+            "fff"
+        ],
+        "id": "305663563377148480",
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "305671425546519104",
+                "author": "890bf02b-006d-4720-983b-9a9b3562ecd6"
+            }
+        ],
+        "author": "3e3c7707-c262-4297-95b6-459a7b0059c5"
+    },
+    {
+        "name": "PROGRAM jUAN",
+        "location": "ASDFASDF",
+        "allDay": true,
+        "start": "2021-07-01T04:00:00.000Z",
+        "end": "2021-07-30T04:00:00.000Z",
+        "tags": [
+            "Tag1",
+            "tag2"
+        ],
+        "hobbies": [
+            "PLAY",
+            "SOCCER"
+        ],
+        "facilitators": [
+            "PLAY",
+            "SOCCER"
+        ],
+        "isRepeated": false,
+        "levelOfCare": [
+            "MEMORY",
+            "LONGTERM"
+        ],
+        "dimension": "100 people",
+        "id": "305671368865743424",
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "11",
+                "author": "890bf02b-006d-4720-983b-9a9b3562ecd6"
+            }
+        ],
+        "author": "890bf02b-006d-4720-983b-9a9b3562ecd6"
+    },
+    {
+        "name": "Program Welbi Carlos",
+        "location": "36 Lisgar st",
+        "allDay": true,
+        "start": "2021-07-20T04:00:00.000Z",
+        "end": "2021-07-30T04:00:00.000Z",
+        "tags": [
+            "Long",
+            "Term"
+        ],
+        "hobbies": [
+            "Play",
+            "Soccer"
+        ],
+        "facilitators": [
+            "Play",
+            "Soccer"
+        ],
+        "isRepeated": true,
+        "levelOfCare": [
+            "MEMORY",
+            "LONGTERM"
+        ],
+        "dimension": "100 people",
+        "id": "305671542237299266",
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "305671583034245697",
+                "author": "890bf02b-006d-4720-983b-9a9b3562ecd6"
+            },
+            {
+                "status": "Active",
+                "residentId": "305486138631520834",
+                "author": "890bf02b-006d-4720-983b-9a9b3562ecd6"
+            },
+            {
+                "status": "Declined",
+                "residentId": "2",
+                "author": "890bf02b-006d-4720-983b-9a9b3562ecd6"
+            },
+            {
+                "status": "Active",
+                "residentId": "305651626110091842",
+                "author": "899b6fd0-59f0-49c9-a1b3-d33df2915597"
+            }
+        ],
+        "author": "890bf02b-006d-4720-983b-9a9b3562ecd6"
+    },
+    {
+        "name": "PROGRAM WELBI TEST",
+        "location": "vvvv",
+        "allDay": true,
+        "start": "2021-06-30T04:00:00.000Z",
+        "end": "2021-08-06T04:00:00.000Z",
+        "tags": [
+            "dddd"
+        ],
+        "hobbies": [
+            "asdf",
+            "asdfasdf",
+            "ff"
+        ],
+        "facilitators": [
+            "asdf",
+            "asdfasdf",
+            "ff"
+        ],
+        "isRepeated": false,
+        "levelOfCare": [
+            "INDEPENDENT",
+            "ASSISTED",
+            "LONGTERM"
+        ],
+        "dimension": "100 people",
+        "id": "305676175640887873",
+        "attendance": [
+            {
+                "status": "Declined",
+                "residentId": "305676132921901634",
+                "author": "899b6fd0-59f0-49c9-a1b3-d33df2915597"
+            },
+            {
+                "status": "Active",
+                "residentId": "305485726490821185",
+                "author": "899b6fd0-59f0-49c9-a1b3-d33df2915597"
+            },
+            {
+                "status": "Active",
+                "residentId": "305651626110091842",
+                "author": "899b6fd0-59f0-49c9-a1b3-d33df2915597"
+            }
+        ],
+        "author": "899b6fd0-59f0-49c9-a1b3-d33df2915597"
+    },
+    {
+        "name": "p1",
+        "location": "ff",
+        "allDay": true,
+        "start": "2021-07-07T04:00:00.000Z",
+        "end": "2021-07-15T04:00:00.000Z",
+        "tags": [
+            "dd dd dd"
+        ],
+        "hobbies": [
+            "d"
+        ],
+        "facilitators": [
+            "d"
+        ],
+        "isRepeated": false,
+        "levelOfCare": [
+            "MEMORY",
+            "LONGTERM"
+        ],
+        "dimension": "100 people",
+        "id": "305678602621420097",
+        "attendance": [
+            {
+                "status": "Active",
+                "residentId": "11",
+                "author": "5621c03c-645c-4be9-b17b-dccbbd7487b2"
+            },
+            {
+                "status": "Declined",
+                "residentId": "3",
+                "author": "5621c03c-645c-4be9-b17b-dccbbd7487b2"
+            }
+        ],
+        "author": "5621c03c-645c-4be9-b17b-dccbbd7487b2"
+    }
+]
