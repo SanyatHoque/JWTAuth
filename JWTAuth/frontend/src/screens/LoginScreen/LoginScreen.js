@@ -31,8 +31,8 @@ function LoginScreen({history}) {
       var y2 = data.token;
       return data.token;
     };
-    dataToken = await login(email, password);
-    setDataToken(dataToken);
+    const resdataToken = await login(email, password);
+    setDataToken(resdataToken);
     Cookies.set('token', dataToken);
     history.push("/dashboard");
   },[query,dataToken]);
