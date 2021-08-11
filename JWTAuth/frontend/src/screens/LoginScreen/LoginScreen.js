@@ -33,8 +33,8 @@ function LoginScreen({history}) {
     };
     const resdataToken = await login(email, password);
     setDataToken(resdataToken);
-    Cookies.set('token', dataToken);
-    history.push("/dashboard");
+    Cookies.set('token', resdataToken);
+    history.push("/mynotes");
   },[query,dataToken]);
 
   const submitHandler = async (e) => {
