@@ -12,7 +12,7 @@ function Dashboard({ history, search }) {
     if (!Cookies.get('token')) {
       history.push("/login");
     }
-  }, [history, Cookies.get('token')]);
+  }, []);
 
   useEffect(()=>{
     fetch("/api/users/getUsers")
