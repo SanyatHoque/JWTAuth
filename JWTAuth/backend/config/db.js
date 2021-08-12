@@ -17,4 +17,3 @@ const connectDB = async () => {
 };
 
 export default connectDB;
-// mongodb+srv://<username>:<password>@cluster0.r6sod.mongodb.net/JSONimported?retryWrites=true&w=majority
