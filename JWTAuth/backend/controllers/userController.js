@@ -5,18 +5,20 @@ import generateToken from "../utils/generateToken.js";
 const authUser = async (req, res, next) => {
   const { name, email, password } = req.body;
   const user = await User.findOne({ email });
-  if (user && (await user.matchPassword(password))) {
-    res.json({
-      name: user.name,
-      email: user.email,
-      token: generateToken(user._id),
-    });
-    if (req.cookies.token) {console.log(`authUser ==> Receive Cookie in the Server :  ${req.cookies.token}`.cyan.underline)};
-    next();
-    } else {
-    res.status(401);
-    throw new Error("Invalid Email or Password");
-  }
+  try {
+      if (user && (await user.matchPassword(password))) {
+        res.json({
+          name: user.name,
+          email: user.email,
+          token: generateToken(user._id),
+        });
+        if (req.cookies.token) {console.log(`authUser ==> Receive Cookie in the Server :  ${req.cookies.token}`.cyan.underline)};
+        next();
+      } 
+    } catch(err) {
+        res.status(401);
+        throw new Error("Invalid Email or Password");
+    };
 };
 const registerUser = async (req, res,next) => {
   const { name, email, password, firstname, lastname, preferredname, status, room, levelofcare, ambulation, birthdate, moveindate, ID, author  } = req.body;
@@ -41,33 +43,43 @@ const registerUser = async (req, res,next) => {
 };
 
 const getUsers = async (req,res,next) => {
+
+ try {
   User.find({}, function(err, users) {
     // console.log('Users',users)
     res.status(201).json({
       usersAll: users,
       // token: generateToken(user._id),
     });
- });
-  if (!users) {
-    res.status(404);
-    throw new Error("Users not found");
-  }
-
-  next();
+    next();
+  });
+  
+  } catch(err) {
+    if (!users) {
+      res.status(404);
+      throw new Error("Users not found");
+    }
+    console.log('err',err)
+  }; 
 };
 
 const getPrograms = async (req,res,next) => {
+ try {
   Program.find({}, function(err, programs) {
     res.status(201).json({
       programsAll: programs,
       // token: generateToken(user._id),
     });
- });
-  if (!programs) {
-    res.status(404);
-    throw new Error("Users not found");
+    next();
+  });
+  
+  } catch(err) {
+    if (!programs) {
+      res.status(404);
+      throw new Error("Users not found");
+    }
+    console.log('err',err)
   }
-  next();
 };
 
 export { authUser,registerUser,getUsers,getPrograms };
